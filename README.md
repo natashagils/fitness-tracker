@@ -5,7 +5,8 @@ This simple fitness tracker allows a user to manage and track their fitness goal
 This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed on Heroku. The app has two pages: Exercise and Stats. User can move between them by typing the appropriate link (/exercise or /stats)
 
 ## Live site: 
-
+https://uoft-fitness-app.herokuapp.com/exercise 
+https://uoft-fitness-app.herokuapp.com/stats
 
 ## Images
 
@@ -21,4 +22,4 @@ To use this portfolio, log into your GitHub account (if you don’t have a GitHu
 
 
 ## Use 
-Run npm init to initialze all required node modules. Remember to update config variables (as required) inyour config.json file. Run npm server.js in the CLI of the server.js file. 
+Run npm init to initialze all required node modules. Remember to update config variables (as required) inyour config.json file. Run npm server.js in the CLI of the server.js file. If you want to deploy to your own Heroku instance, you may also have to add the mLab MongoDB in the Resource section of your Heroku, create a new user, and copy the URL to connect using a driver via the standard MongoDB URI. 
