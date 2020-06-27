@@ -2,12 +2,18 @@
 This simple fitness tracker allows a user to manage and track their fitness goals. Users can choose from cardio or resistance training, continue workouts and also review their stats. 
 
 ## Description 
-This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed on Heroku. 
+This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed on Heroku. The app has two pages: Exercise and Stats. User can move between them by typing the appropriate link (/exercise or /stats)
 
 ## Live site: 
 
 
 ## Images
+
+
+<img width="1263" alt="Screen Shot 2020-06-26 at 9 12 33 PM" src="https://user-images.githubusercontent.com/56641651/85911208-c2b71080-b7f1-11ea-9735-588906a86993.png">
+
+<img width="1310" alt="Screen Shot 2020-06-26 at 9 11 38 PM" src="https://user-images.githubusercontent.com/56641651/85911188-a2875180-b7f1-11ea-9529-0c198ed607bf.png">
+
 
 
 ## Installation 
