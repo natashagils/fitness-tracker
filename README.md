@@ -10,11 +10,6 @@ This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed
 ## Images
 
 
-Image of adding exercises:
-
-Image of Workout Dashboard
-![Image of user's view when looking at the Workout Dashboard](./public/images/workout-dashboard.png)
-
 ## Installation 
 To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Homework5-Scheduler. Then click on the "Fork" button at the top right corner and wait until the repo is forked.
 
