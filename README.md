@@ -14,5 +14,5 @@ This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed
 To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Homework5-Scheduler. Then click on the "Fork" button at the top right corner and wait until the repo is forked.
 
 
-## Installation 
+## Use 
 Run npm init to initialze all required node modules. Remember to update config variables (as required) inyour config.json file. Run npm server.js in the CLI of the server.js file. 
