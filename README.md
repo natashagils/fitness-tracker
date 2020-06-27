@@ -4,6 +4,22 @@ This simple fitness tracker allows a user to manage and track their fitness goal
 ## Description 
 This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed on Heroku. The app has two pages: Exercise and Stats. User can move between them by typing the appropriate link (/exercise or /stats)
 
+## User Story
+
+As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+
+## Acceptance Criteria
+
+When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
+
+The user should be able to:
+
+  * Add exercises to a previous workout plan.
+
+  * Add new exercises to a new workout plan.
+
+  * View multiple the combined weight of multiple exercises on the `stats` page.
+
 ## Live site: 
 - https://uoft-fitness-app.herokuapp.com/exercise 
 - https://uoft-fitness-app.herokuapp.com/stats
