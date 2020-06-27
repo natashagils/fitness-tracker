@@ -5,8 +5,8 @@ This simple fitness tracker allows a user to manage and track their fitness goal
 This tracking app uses Node.js, Express.js, MongoDB and Mongoose. It is deployed on Heroku. The app has two pages: Exercise and Stats. User can move between them by typing the appropriate link (/exercise or /stats)
 
 ## Live site: 
-** https://uoft-fitness-app.herokuapp.com/exercise 
-** https://uoft-fitness-app.herokuapp.com/stats
+- https://uoft-fitness-app.herokuapp.com/exercise 
+- https://uoft-fitness-app.herokuapp.com/stats
 
 ## Images
 
